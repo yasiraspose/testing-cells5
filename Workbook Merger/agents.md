@@ -10,3 +10,4 @@ Workbook Merger
 - Load_workbooks_from_supported_formats_and_merge_them_into_a_new_workbook.cs
 - Merge_multiple_workbooks_into_a_single_workbook.cs
 - Verify_prerequisites_before_performing_workbook_merging.cs
+- Load_source_workbooks.cs
