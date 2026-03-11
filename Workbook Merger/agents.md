@@ -17,3 +17,4 @@ Workbook Merger
 - Merge_files.cs
 - Merge_workbooks.cs
 - Merge_worksheets.cs
+- Merge_charts.cs
