@@ -18,3 +18,4 @@ Workbook Merger
 - Merge_workbooks.cs
 - Merge_worksheets.cs
 - Merge_charts.cs
+- Merge_entire_workbooks_into_a_single_workbook.cs
