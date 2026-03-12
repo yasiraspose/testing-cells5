@@ -8,3 +8,4 @@ Save Workbook
 
 - Save_workbook_to_a_file_in_XLSX_format.cs
 - Save_workbook_to_a_stream_in_XLSX_format.cs
+- Save_workbook_to_a_byte_array_in_XLSX_format.cs
