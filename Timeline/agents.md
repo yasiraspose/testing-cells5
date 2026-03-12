@@ -7,3 +7,4 @@ Timeline
 ## Examples
 
 - Add_a_timeline_to_a_worksheet_by_loading_and_inserting_an_XLTX_template_file.cs
+- Insert_a_timeline_into_a_worksheet_using_an_XLTM_template_ensuring_correct_data_.cs
